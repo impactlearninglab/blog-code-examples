@@ -32,13 +32,17 @@
 3. **Navigate** to the corresponding folder
 4. **Follow instructions** in the folder's README
 
-## 📁 Repository Structure
-blog-code-examples/
-├── ai-ml/ # AI & Machine Learning tutorials
-├── python/ # Python projects and scripts
-├── web-dev/ # Frontend and full-stack web
-├── tools-devops/ # DevOps, Docker, Git, CI/CD
-└── _template/ # Template for new tutorials
+## 📁 Project Structure
+
+```
+project/
+├── src/                    # Source code
+├── data/                   # Sample data (optional)
+├── tests/                  # Test files (optional)
+├── README.md              # This file
+├── requirements.txt       # Python dependencies
+└── .env.example          # Environment variables template
+```
 
 text
 
