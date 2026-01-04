@@ -1,0 +1,6 @@
+# Hello Blog Dependencies
+python-dotenv==1.0.0
+
+# Optional: for future extensions
+# requests==2.31.0
+# pandas==2.1.3
