@@ -1,0 +1,8 @@
+# Python dependencies example
+# Replace with your actual dependencies
+
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+numpy==1.24.3
+pandas==2.1.3
